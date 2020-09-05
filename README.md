@@ -2,6 +2,7 @@
 
 ## I'm a Coder, Gamer, Student, Developer and sometimes a Teacher !
 
+- 😎 One Developer Army 💪💪
 - 🔭 I’m currently working on a [lot of projects][website] !!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
