@@ -1,9 +1,10 @@
-### Hi there, I'm Muhammad Jazzel Mehmood - aka [JAZZ][website] 👋
+
+### Hi there, I'm Muhammad Jazzel Mehmood - aka [JAZZ](http://jazzel.netlify.app/) 👋
 
 ## I'm a Coder, Gamer, Student, Developer and sometimes a Teacher !
 
 - 😎 One Developer Army 💪💪
-- 🔭 I’m currently working on a [lot of projects][website] !!
+- 🔭 I’m currently working on a [lot of projects](http://jazzel.netlify.app/) !!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -55,16 +56,16 @@
 
 Here are some tools I am currently using + ever worked with.
 
-- **FrontEnd Technologies**: HTML, CSS, React, Gatsby
-- **BackEnd Technologies:** NodeJs, ASP.NET core, PHP, Django
-- **Databases**: PostgreSQL, SQL SERVER, MYSQL, SQLITE, MONGODB
-- **Programming Languages**: JavaScript/Typescript, C#, Java, Python, C
+- **FrontEnd Technologies**: HTML, CSS, Bootstrap, Material-UI, React, Gatsby, Flutter-UI
+- **BackEnd Technologies:** NodeJs, ASP.NET, PHP, Django, Netlify-Functions, Flutter
+- **Databases**: PostgreSQL, SQL Server, MySQL, SQLite, MongoDB, FaunaDB, Firebase
+- **Programming Languages**: JavaScript, Typescript, C#, Python, Dart, Java, C++
 - **Version Control**: Git and GitHub
-- **DevOps**: Docker, Heroku, Github Actions, Netlify
+- **DevOps**: Heroku, GitHub, GitHub Actions, Netlify
 
 ---
 
-[website]: https://comingsoon.com
+[website]: http://jazzel.netlify.app/
 [twitter]: https://twitter.com/mehmood_jazzel
 [youtube]: https://www.youtube.com/channel/UCZdEw0PY5f0llDe5iOutwHQ?view_as=subscriber
 [instagram]: https://www.instagram.com/mehmoodjazzel/
