@@ -1,10 +1,10 @@
 
-### Hi there, I'm Muhammad Jazzel Mehmood - aka [JAZZ](http://jazzel.netlify.app/) 👋
+### Hi there, I'm Muhammad Jazzel Mehmood - aka [JAZZ](https://jazzel.me/) 👋
 
 ## I'm a Coder, Gamer, Student, Developer and sometimes a Teacher !
 
 - 😎 One Developer Army 💪💪
-- 🔭 I’m currently working on a [lot of projects](http://jazzel.netlify.app/) !!
+- 🔭 I’m currently working on a [lot of projects](https://jazzel.me/) !!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -56,16 +56,16 @@
 
 Here are some tools I am currently using + ever worked with.
 
-- **FrontEnd Technologies**: HTML, CSS, Bootstrap, Material-UI, React, Gatsby, Flutter-UI
-- **BackEnd Technologies:** NodeJs, ASP.NET, PHP, Django, Netlify-Functions, Flutter
-- **Databases**: PostgreSQL, SQL Server, MySQL, SQLite, MongoDB, FaunaDB, Firebase
-- **Programming Languages**: JavaScript, Typescript, C#, Python, Dart, Java, C++
+- **FrontEnd Technologies**: HTML, CSS, Bootstrap, MDBootstrap, ReactStrap, Material-UI, React, Gatsby, Flutter-UI 
+- **BackEnd Technologies:** NodeJS, Express, ASP.NET, PHP, Django, Netlify-Functions, Flutter, Laravel, React-Native, Android Studio
+- **Databases**: PostgreSQL, SQL Server, MySQL, SQLite, MongoDB, Mongoose, FaunaDB, Firebase, MariaDB
+- **Programming Languages**: JavaScript, Typescript, C#, Python, Dart, Java, C/C++, RUST, Java
 - **Version Control**: Git and GitHub
-- **DevOps**: Heroku, GitHub, GitHub Actions, Netlify
+- **DevOps**: Heroku, GitHub, GitHub Actions, Netlify, DigitalOcean, Dockers
 
 ---
 
-[website]: http://jazzel.netlify.app/
+[website]: https://jazzel.me/
 [twitter]: https://twitter.com/mehmood_jazzel
 [youtube]: https://www.youtube.com/channel/UCZdEw0PY5f0llDe5iOutwHQ?view_as=subscriber
 [instagram]: https://www.instagram.com/mehmoodjazzel/
