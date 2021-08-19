@@ -1,4 +1,3 @@
-
 ### Hi there, I'm Muhammad Jazzel Mehmood - aka [JAZZ](https://jazzel.me/) 👋
 
 ## I'm a Coder, Gamer, Student, Developer and sometimes a Teacher !
@@ -9,15 +8,16 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to code and play games and I'm also a funny person 🤣🤣
+- 📖 Doing bachelors in Computer Engineeing from Habib University
 
 ### Connect with me:
 
-[<img align="left" alt="JAZZ | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="JAZZ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JAZZ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JAZZ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JAZZ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="JAZZ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/facebook.svg" />][facebook]
+[<img align="left" style="fill: red !important;" alt="JAZZ | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img style="fill: red;" align="left" alt="JAZZ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img style="fill: red;" align="left" alt="JAZZ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img style="fill: red;"  align="left" alt="JAZZ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img style="fill: red;"  align="left" alt="JAZZ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img style="fill: red;"  align="left" alt="JAZZ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/facebook.svg" />][facebook]
 
 <br />
 
@@ -56,12 +56,21 @@
 
 Here are some tools I am currently using + ever worked with.
 
-- **FrontEnd Technologies**: HTML, CSS, Bootstrap, MDBootstrap, ReactStrap, Material-UI, React, Gatsby, Flutter-UI 
+- **FrontEnd Technologies**: HTML, CSS, SCSS, SASS, Bootstrap, MDBootstrap, ReactStrap, Material-UI, React, Gatsby, Next, Flutter-UI
 - **BackEnd Technologies:** NodeJS, Express, ASP.NET, PHP, Django, Netlify-Functions, Flutter, Laravel, React-Native, Android Studio
-- **Databases**: PostgreSQL, SQL Server, MySQL, SQLite, MongoDB, Mongoose, FaunaDB, Firebase, MariaDB
+- **Databases**: PostgreSQL, SQL Server, MySQL, SQLite, MongoDB/Mongoose, FaunaDB, Firebase, phpMyAdmin
 - **Programming Languages**: JavaScript, Typescript, C#, Python, Dart, Java, C/C++, RUST, Java
 - **Version Control**: Git and GitHub
 - **DevOps**: Heroku, GitHub, GitHub Actions, Netlify, DigitalOcean, Dockers
+
+### Certificates
+
+- Advance Diploma in Software Engineering - ADSE (Aptech Learning Pakistan)
+- Microsoft: Introduction to Programming Using Python (MTA 98-381)
+- DeepLearning.io: AI for everyone (Coursera)
+- Google Solution Challenge 2021
+- Google Developer Students Club Core Team Member (Habib University)
+- A couple of more on DataScience from Datacamp
 
 ---
 
