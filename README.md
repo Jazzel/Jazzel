@@ -56,7 +56,7 @@
 
 Here are some tools I am currently using + ever worked with.
 
-- **FrontEnd Technologies**: HTML, CSS, SCSS, SASS, Bootstrap, MDBootstrap, ReactStrap, Material-UI, React, Gatsby, Next, Flutter-UI
+- **FrontEnd Technologies**: HTML, CSS/SCSS/SASS, Bootstrap, Materialize, Tailwind CSS, ReactStrap, Material-UI, React, Gatsby, Next, Flutter-UI
 - **BackEnd Technologies:** NodeJS, Express, ASP.NET, PHP, Django, Netlify-Functions, Flutter, Laravel, React-Native, Android Studio
 - **Databases**: PostgreSQL, SQL Server, MySQL, SQLite, MongoDB/Mongoose, FaunaDB, Firebase, phpMyAdmin
 - **Programming Languages**: JavaScript, Typescript, C#, Python, Dart, Java, C/C++, RUST, Java
