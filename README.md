@@ -63,6 +63,18 @@ Here are some tools I am currently using + ever worked with.
 - **Version Control**: Git and GitHub
 - **DevOps**: Heroku, GitHub, GitHub Actions, Netlify, DigitalOcean, Dockers
 
+### Awards
+
+- Procom 2022 Winner - Website Development (FAST NUCES University)
+- Student of the year - 2020 (Aptech Education Pakistan)
+- Aptech Vision 3rd - Start Up: BizzHome - (StartUp Paksitan)
+- Techon 3.0 Winner - Project competition (Aptech Education Pakistan)
+- Techon 3.0 1st Runner-up - Web application development (Aptech Education Pakistan)
+- TechWiz - Best Project - Web designing - Team: Brogrammers (Aptech Education Pakistan)
+- CodeFest Winner - Web designing (Aptech Education Pakistan)
+- Code Hackathon Winner - Web designing
+- 2 times Project of the Month (Aptech Education Pakistan)
+
 ### Certificates
 
 - Advance Diploma in Software Engineering - ADSE (Aptech Learning Pakistan)
