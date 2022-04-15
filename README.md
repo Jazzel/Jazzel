@@ -70,7 +70,7 @@ Here are some tools I am currently using + ever worked with.
 - Aptech Vision 3rd - Start Up: BizzHome - (StartUp Paksitan)
 - Techon 3.0 Winner - Project competition (Aptech Education Pakistan)
 - Techon 3.0 1st Runner-up - Web application development (Aptech Education Pakistan)
-- TechWiz - Best Project - Web designing - Team: Brogrammers (Aptech Education Pakistan)
+- TechWiz - Best Project - Web designing - Team: Brogrammers (Aptech Education WorldWide)
 - CodeFest Winner - Web designing (Aptech Education Pakistan)
 - Code Hackathon Winner - Web designing
 - 2 times Project of the Month (Aptech Education Pakistan)
