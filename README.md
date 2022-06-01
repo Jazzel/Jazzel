@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on a [lot of projects](https://jazzel.me/) !!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to code and play games and I'm also a funny person 🤣🤣
 - 📖 Doing bachelors in Computer Engineeing from Habib University
 
