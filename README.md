@@ -1,9 +1,9 @@
-### Hi there, I'm Muhammad Jazzel Mehmood - aka [JAZZ](https://jazzel.me/) 👋
+### Hi there, I'm Muhammad Jazzel Mehmood - aka [JAZZ]([https://www.jazzelmehmood.com/](https://www.jazzelmehmood.com/)) 👋
 
 ## I'm a Coder, Gamer, Student, Developer and sometimes a Teacher !
 
 - 😎 One Developer Army 💪💪
-- 🔭 I’m currently working on a [lot of projects](https://jazzel.me/) !!
+- 🔭 I’m currently working on a [lot of projects]([https://www.jazzelmehmood.com/](https://www.jazzelmehmood.com/)) !!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
@@ -86,7 +86,7 @@ Here are some tools I am currently using + ever worked with.
 
 ---
 
-[website]: https://jazzel.me/
+[website]: https://www.jazzelmehmood.com/
 [twitter]: https://twitter.com/mehmood_jazzel
 [youtube]: https://www.youtube.com/channel/UCZdEw0PY5f0llDe5iOutwHQ?view_as=subscriber
 [instagram]: https://www.instagram.com/mehmoodjazzel/
