@@ -2,13 +2,6 @@
 
 ## I'm a Coder, Gamer, Student, Developer and sometimes a Teacher !
 
-<div align='left'>
-<p align="left"> 
-   Visitor count:
-   
-   <img src="https://profile-counter.glitch.me/Jazzel/count.svg" align="center"/> 
- </p></div>
-
 - 😎 One Developer Army 💪💪
 - 🔭 I’m currently working on a [lot of projects](https://www.jazzelmehmood.com/) !!
 - 🌱 I’m currently learning Web3 & Metaverse technologies 🤣
@@ -94,34 +87,6 @@ Here are some tools I am currently using + ever worked with.
 - Google Solution Challenge 2021
 - Google Developer Students Club Core Team Member (Habib University)
 - A couple of more on DataScience from Datacamp
-
-### GitHub Trophies
-
-<div align='center'>
-<img src='https://github-profile-trophy.vercel.app/?username=Jazzel&theme=radical&no-frame=true&no-bg=true&margin-w=4' width=75%/>
-<div>
-
-<div align='left'>
-    <h3>Contribution</h3>
-    <img src='github-user-contribution.svg' width=100% />
-    </div>
-</div>
-
-<div align='left'>
-
-<!-- ### GitHub Stats:
-
-<div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Jazzel&show_icons=true&locale=en&theme=dark" width="47%" />
-
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Jazzel&theme=dark" width="47%" />
-</div> -->
-
-<!-- <p align = "center"><br>
-<img src='https://github-readme-stats.vercel.app/api?username=Jazzel&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false' width=32% />
-<img  src='https://github-readme-streak-stats.herokuapp.com/?user=Jazzel&theme=great-gatsby&hide_border=true' width=33%  height=200px />
-<img  src='https://github-readme-stats.vercel.app/api/top-langs/?username=Jazzel&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false&layout=compact' width=33%   height=200px  /> -->
-<div>
 
 ---
 
