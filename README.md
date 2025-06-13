@@ -1,66 +1,70 @@
-# Hi👋, I'm Muhammad Jazzel Mehmood - aka [JAZZ](https://www.jazzelmehmood.com/)
+# 👋 Hi, I'm Muhammad Jazzel Mehmood — aka [JAZZ](https://www.jazzelmehmood.com/)
 
-## I'm a Coder, Gamer, Student, Developer and sometimes a Teacher !
+## 🧠 Researcher | Full Stack & Blockchain Developer | Systems Engineer
 
-- 😎 One Developer Army 💪💪
-- 🔭 I’m currently working on a [lot of projects](https://www.jazzelmehmood.com/) !!
-- 🌱 I’m currently learning Web3 & Metaverse technologies 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Become a Cloud Architect and Web3 Developer
-- ⚡ Fun fact: I love to code and play games and I'm also a funny person 🤣🤣
-- 📖 Doing bachelors in Computer Engineeing from Habib University
+I'm a Computer Engineering graduate passionate about decentralized technologies, peer-to-peer systems, and building secure, scalable solutions at the intersection of Web3 and real-world infrastructure.
 
-### Connect with me:
+### 🔬 Ongoing Research
 
-[<img align="left" alt="JAZZ | Website" width="48px" src="website.png" />][website]
-[<img align="left" alt="JAZZ | YouTube" width="48px" src="youtube.png" />][youtube]
-[<img  align="left" alt="JAZZ | Twitter" width="48px" src="twitter.png" />][twitter]
-[<img   align="left" alt="JAZZ | LinkedIn" width="48px" src="linkedin.png" />][linkedin]
-[<img   align="left" alt="JAZZ | Instagram" width="48px" src="instagram.png" />][instagram]
-[<img   align="left" alt="JAZZ | Instagram" width="48px" src="facebook.png" />][facebook]
-[<img   align="left" alt="JAZZ | Discord" width="48px" src="discord.png" />][discord]
+I'm currently working on a hybrid **Blockchain + SOME SPECIAL INGREDIENT** system that allows the formation of **offline-first peer-to-peer networks** where each node acts as a seeder. The aim is to:
 
-<br />
-<br />
+- Enable resilient, infrastructure-less communication and data exchange
+- Power **offline DeFi** and micro-transactions in disconnected areas
+- Build robust fallback systems for emergencies or censorship-heavy regions
 
-### Technology Stack:
+### 💻 Technical Interests
 
-Here are some tools I am currently using + ever worked with.
-
-- **FrontEnd Technologies**: HTML, CSS/SCSS/SASS, Bootstrap, Materialize, Tailwind CSS, ReactStrap, Material-UI, React, Gatsby, Next, Flutter-UI
-- **BackEnd Technologies:** NodeJS, Express, ASP.NET, PHP, Django, Netlify-Functions, Flutter, Laravel, React-Native, Android Studio
-- **Databases**: PostgreSQL, SQL Server, MySQL, SQLite, MongoDB/Mongoose, FaunaDB, Firebase, phpMyAdmin
-- **Programming Languages**: JavaScript, Typescript, C#, Python, Dart, Java, C/C++, RUST, Java
-- **Version Control**: Git and GitHub
-- **DevOps**: Heroku, GitHub, GitHub Actions, Netlify, DigitalOcean, Dockers
-
-### Awards
-
-- Procom 2022 Winner - Website Development (FAST NUCES University)
-- Student of the year - 2020 (Aptech Education Pakistan)
-- Aptech Vision 3rd - Start Up: BizzHome - (StartUp Paksitan)
-- Techon 3.0 Winner - Project competition (Aptech Education Pakistan)
-- Techon 3.0 1st Runner-up - Web application development (Aptech Education Pakistan)
-- TechWiz - Best Project - Web designing - Team: Brogrammers (Aptech Education WorldWide)
-- CodeFest Winner - Web designing (Aptech Education Pakistan)
-- Code Hackathon Winner - Web designing
-- 2 times Project of the Month (Aptech Education Pakistan)
-
-### Certificates
-
-- Advance Diploma in Software Engineering - ADSE (Aptech Learning Pakistan)
-- Microsoft: Introduction to Programming Using Python (MTA 98-381)
-- DeepLearning.io: AI for everyone (Coursera)
-- Google Solution Challenge 2021
-- Google Developer Students Club Core Team Member (Habib University)
-- A couple of more on DataScience from Datacamp
+- P2P Networking & Blockchain Protocols
+- Distributed Systems & Decentralized Applications (dApps)
+- Offline-first Web3 Architecture
+- Secure Authentication & Identity in DeFi
 
 ---
 
+## ⚙️ Tech Stack
+
+**Frontend**: HTML, CSS/SASS, Tailwind, React, Flutter, Next.js  
+**Backend**: Node.js, Express, Django, PHP, Laravel, ASP.NET  
+**Blockchain & Web3**: Ethereum (Solidity), IPFS, Chainlink (Oracles), Web3.js, Metamask integration  
+**Databases**: MongoDB, Firebase, PostgreSQL, MySQL  
+**Programming**: JavaScript, TypeScript, Python, C++, Rust (beginner), Dart  
+**DevOps & Infra**: GitHub Actions, Docker, AWS (EC2, Route53, WAF), DigitalOcean, Heroku  
+**Tools**: Git, VSCode, SonarQube, Netlify, CI/CD pipelines
+
+---
+
+## 🏆 Awards & Highlights
+
+- 🥇 Procom 2022 Winner – Web Application Development (FAST NUCES)
+- 🎓 Best Capstone Project – Habib University
+- 🥉 Startup Award – Aptech Vision 3.0 (JumpStart Pakistan)
+- 🏆 Multiple project competition wins across Aptech, Techon, and CodeFest
+- 🥇 Full 100% Talent Outreach Scholarship – Habib University
+
+---
+
+## 📄 Certificates
+
+- Advance Diploma in Software Engineering – Aptech
+- MTA: Introduction to Python Programming – Microsoft
+- AI for Everyone – Coursera (DeepLearning.ai)
+- Google Project Management – Coursera
+- Google Developer Group - Habib University
+
+---
+
+## 🌐 Connect With Me
+
+[🌐 Website][website] • [💼 LinkedIn][linkedin] • [🐦 Twitter][twitter] • [📺 YouTube][youtube] • [📷 Instagram][instagram] • [🎮 Discord][discord]
+
+---
+
+_If you're a professor, researcher, or developer working on decentralized systems, I'm open to research collaborations, remote internships, and full-time PhD opportunities in Web3._
+
+<!-- Links -->
 [website]: https://www.jazzelmehmood.com/
+[linkedin]: https://www.linkedin.com/in/muhammed-jazzel-mehmood-860233163/
 [twitter]: https://twitter.com/mehmood_jazzel
 [youtube]: https://www.youtube.com/channel/UCZdEw0PY5f0llDe5iOutwHQ?view_as=subscriber
 [instagram]: https://www.instagram.com/mehmoodjazzel/
-[linkedin]: https://www.linkedin.com/in/muhammed-jazzel-mehmood-860233163/
-[facebook]: https://www.facebook.com/jazzel.mehmood/
 [discord]: https://discord.com/users/Jazzel#3798
